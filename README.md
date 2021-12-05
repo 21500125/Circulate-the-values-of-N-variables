@@ -21,10 +21,7 @@ def circulate():
    n=int(input())
    result=l[n:]+l[:n]
    print("After circulating the values are:",result)
-
+   
 ## Output:
 ![OUTPUT](./ssn.png.png)
-
-## Output:
-
 ## Result:
