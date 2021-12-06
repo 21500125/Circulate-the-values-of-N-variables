@@ -8,10 +8,7 @@ Anaconda - Python 3.7
 ### Step 1: Give a user defined function as def circulate():
 ### Step 2: Give a user defined function as def circulate():
 ### Step 3: give a list with an array of certain numbers
-Get the value from the user for the number of rotation
 ### Step 4: Using the slicing concept rotate the list
-Using the slicing concept rotate the list
-
 ### Step 5: Print the values
 ### Step 6: Print the values
 ## Program:#Developed by: 
