@@ -12,7 +12,6 @@ Anaconda - Python 3.7
 ### Step 5: Print the values
 ### Step 6: Print the values
 ## Program:#Developed by: 
-#RegisterNumber:21500125
 def circulate():
    l=[10,20,30,40,50,60]
    n=int(input())
@@ -21,4 +20,4 @@ def circulate():
    
 ## Output:
 ![OUTPUT](./ss.png)
-## Result:
+##Result
