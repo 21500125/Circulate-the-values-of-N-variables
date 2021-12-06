@@ -17,7 +17,7 @@ def circulate():
    l=[10,20,30,40,50,60]
    n=int(input())
    result=l[n:]+l[:n]
-   print("After circulating the values are:",result)
+   print("After circulatig the values are:",result)
    
 ## Output:
 ![OUTPUT](./ss.png)
