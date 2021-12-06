@@ -20,5 +20,5 @@ def circulate():
    print("After circulating the values are:",result)
    
 ## Output:
-![OUTPUT](./ssn.png.png)
+![OUTPUT](./ss.png)
 ## Result:
